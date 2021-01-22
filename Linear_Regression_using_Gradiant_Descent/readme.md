@@ -1,10 +1,13 @@
-# DataScienceProjects Project1
+# Linear regressin using gradient descent
 
-#### Gradiant
-![alt text](https://github.com/joyabhishek/covid19FlaskWebApp/blob/master/UI%20Design/iPhone%20X-XS-11%20Pro%20%E2%80%93%201.jpg "UI Design for this webApp can be found in tree/master/UI Design")
+#### Gaph between the "Population" of an area vs "Profit" of a Chinese van
+![alt text](https://github.com/joyabhishek/DataScienceProjects/blob/main/Linear_Regression_using_Gradiant_Descent/Images/Graph.PNG " ")
 
-![alt text](https://github.com/joyabhishek/covid19FlaskWebApp/blob/master/UI%20Design/iPhone%20X-XS-11%20Pro%20%E2%80%93%201.jpg "UI Design for this webApp can be found in tree/master/UI Design")
+#### The magical slope value which ives least error 
+![alt text](https://github.com/joyabhishek/DataScienceProjects/blob/main/Linear_Regression_using_Gradiant_Descent/Images/GradiantDescent.PNG " ")
 
-![alt text](https://github.com/joyabhishek/covid19FlaskWebApp/blob/master/UI%20Design/iPhone%20X-XS-11%20Pro%20%E2%80%93%201.jpg "UI Design for this webApp can be found in tree/master/UI Design")
+#### The best fit line
+![alt text](https://github.com/joyabhishek/DataScienceProjects/blob/main/Linear_Regression_using_Gradiant_Descent/Images/BestFitNoIntercept.PNG " ")
 
-![alt text](https://github.com/joyabhishek/covid19FlaskWebApp/blob/master/UI%20Design/iPhone%20X-XS-11%20Pro%20%E2%80%93%201.jpg "UI Design for this webApp can be found in tree/master/UI Design")
+#### The best fit line considering slope as well a intercept
+![alt text](https://github.com/joyabhishek/DataScienceProjects/blob/main/Linear_Regression_using_Gradiant_Descent/Images/BestFitLine.PNG " ")
