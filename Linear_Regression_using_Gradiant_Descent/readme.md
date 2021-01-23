@@ -6,7 +6,7 @@
 ## 2. The magical slope value which gives least error 
 ![alt text](https://github.com/joyabhishek/DataScienceProjects/blob/main/Linear_Regression_using_Gradiant_Descent/Images/GradiantDescent.PNG " ")
 
-## 3. The best fit line
+## 3. The best fit line with intercept=0
 ![alt text](https://github.com/joyabhishek/DataScienceProjects/blob/main/Linear_Regression_using_Gradiant_Descent/Images/BestFitNoIntercept.PNG " ")
 
 ## 4. The best fit line considering slope as well a intercept
