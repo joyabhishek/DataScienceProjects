@@ -12,5 +12,5 @@
 ## 4. The best fit line considering slope as well a intercept
 ![alt text](https://github.com/joyabhishek/DataScienceProjects/blob/main/Linear_Regression_using_Gradiant_Descent/Images/BestFitLine.PNG " ")
 
-Tutorial regarding this project:
+#### Tutorial regarding this project:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/It3dYjlR0Sw/0.jpg)](https://youtu.be/It3dYjlR0Sw)
